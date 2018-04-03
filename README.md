@@ -28,6 +28,19 @@ Darwin Ankits-MacBook-Pro.local 17.4.0 Darwin Kernel Version 17.4.0: Sun Dec 17 
 Darwin
 ```
 
+## who
+
+Display who is logged in.
+
+```zsh
+➜  ~ who
+ankitchandawala console  Apr  2 15:23
+ankitchandawala ttys000  Apr  3 13:15
+
+➜  ~ who am I
+ankitchandawala ttys000  Apr  3 13:15
+```
+
 ## Terminal Information
 
 `$TERM` is an environment variable that tell you the terminal (or terminal emulator) that you are using.
