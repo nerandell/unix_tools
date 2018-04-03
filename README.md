@@ -11,8 +11,6 @@ Ex.
 ➜  ~ man man
 ```
 
-### Gotchas
-
 `man` by default pipes output to whatever environment variable is set in `$PAGER` environment variable.
 For my system, it is `less`.
 
@@ -20,5 +18,6 @@ For my system, it is `less`.
 ➜  ~ echo $PAGER
 less
 ```
+
 
 
