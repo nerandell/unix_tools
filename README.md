@@ -4,9 +4,7 @@ This is based on my reading of the book [Unix Power Tools](https://www.goodreads
 
 ## man
 
-Used to format and display the on-line manual pages
-
-Ex. 
+Used to format and display the on-line manual pages. Example: 
 ```zsh
 ➜  ~ man man
 ```
