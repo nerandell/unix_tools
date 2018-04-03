@@ -27,3 +27,12 @@ Used to print operating system name. Example:
 Darwin Ankits-MacBook-Pro.local 17.4.0 Darwin Kernel Version 17.4.0: Sun Dec 17 09:19:54 PST 2017; root:xnu-4570.41.2~1/RELEASE_X86_64 x86_64
 Darwin
 ```
+
+## Terminal Information
+
+`$TERM` is an environment variable that tell you the terminal (or terminal emulator) that you are using.
+
+```zsh
+➜  ~ echo $TERM
+xterm-256color
+```
