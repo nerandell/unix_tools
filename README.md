@@ -39,6 +39,9 @@ ankitchandawala ttys000  Apr  3 13:15
 
 ➜  ~ who am I
 ankitchandawala ttys000  Apr  3 13:15
+
+➜  ~ who mom likes
+ankitchandawala ttys000  Apr  3 13:15
 ```
 
 ## Terminal Information
