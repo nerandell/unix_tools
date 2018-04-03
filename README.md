@@ -66,7 +66,7 @@ Returns user's terminal name
 
 ### stty
 
-Get and Set the options for a terminal device interface
+Used to get and set the options for a terminal device interface.
 
 ```zsh
 ➜  ~ stty -a
@@ -83,6 +83,9 @@ cchars: discard = ^O; dsusp = ^Y; eof = ^D; eol = <undef>;
 	eol2 = <undef>; erase = ^?; intr = ^C; kill = ^U; lnext = ^V;
 	min = 1; quit = ^\; reprint = ^R; start = ^Q; status = ^T;
 	stop = ^S; susp = ^Z; time = 0; werase = ^W;
+
+➜  ~ stty size
+39 128
 ```
 
 
