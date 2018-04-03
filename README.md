@@ -9,7 +9,7 @@ Used to format and display the on-line manual pages. Example:
 ➜  ~ man man
 ```
 
-`man` by default pipes output to whatever environment variable is set in `$PAGER` environment variable.
+`man` by default pipes output to whatever is set in `$PAGER` environment variable.
 For my system, it is `less`.
 
 ```zsh
