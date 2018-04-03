@@ -46,9 +46,21 @@ ankitchandawala ttys000  Apr  3 13:15
 
 ## Terminal Information
 
+### $TERM
+
 `$TERM` is an environment variable that tell you the terminal (or terminal emulator) that you are using.
 
 ```zsh
 ➜  ~ echo $TERM
 xterm-256color
 ```
+
+### tty
+
+Returns user's terminal name
+
+```zsh
+➜  ~ tty
+/dev/ttys000
+```
+
